@@ -4,14 +4,14 @@
 ###已更新至 version 0.8.0-20200110
 
 
-<h1><font color=Blue>  This is a dlna renderer for linux all platform based ubuntu, <br>
-This can stream audio, stetup a wifi Audio Equitment, like HomePod </font><br></h1>
+<h1><font color=Blue> 这是一个基于ubuntu18的dlna 音频接收端，
+它可以DLNA推送音频资源，例如HomePod </font><br></h1>
 
 
 
-# Docker Command:
-## Only `host` module:
-#### The  content of `< xxx >` your should replaced to your owns.
+# Docker 命令:
+## 仅支持 `host` 模式:
+#### `< xxx >` 替换为你喜欢的名字.
 ```
 docker run -d \
 --name <container name> \
@@ -21,5 +21,6 @@ docker run -d \
  --restart unless-stopped \
 sxx1314/dlna-render
 ```
-Comment:
-  The line `-e UPNP_DEVICE_NAME=<dlna renderer name>`  can be remove the it will use name `HomePod-$(hostname)` by default.
+注释:
+  这一行 `-e UPNP_DEVICE_NAME=<dlna renderer name>`  可以删除 
+  删除之后默认命名规则为 `HomePod-$(hostname)` 
