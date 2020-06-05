@@ -1,6 +1,6 @@
 # DLNA-render
 
-<h1><font color=Yellow> 这是一个基于ubuntu18的dlna 音频接收端，
+<h1><font color=Purple> 这是一个基于ubuntu18的dlna 音频接收端，
 它可以DLNA推送音频资源，例如HomePod </font><br></h1>
 
 最新的DLNA render实现（gmediarender）
