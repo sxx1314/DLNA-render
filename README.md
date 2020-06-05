@@ -1,12 +1,12 @@
 # DLNA-render
-###最新的DLNA render实现（gmediarender）
-
-###已更新至 version 0.8.0-20200110
-
 
 <h1><font color=Blue> 这是一个基于ubuntu18的dlna 音频接收端，
 它可以DLNA推送音频资源，例如HomePod </font><br></h1>
 
+##最新的DLNA render实现（gmediarender）
+
+###更新日志
+20200605 更新修复小bug version 0.0.8
 
 
 # Docker 命令:
