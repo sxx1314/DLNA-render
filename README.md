@@ -3,7 +3,7 @@
 <h1><font color=Blue> 这是一个基于ubuntu18的dlna 音频接收端，
 它可以DLNA推送音频资源，例如HomePod </font><br></h1>
 
-##最新的DLNA render实现（gmediarender）
+最新的DLNA render实现（gmediarender）
 
 目前进度 
 网易云/qq音乐轮播正常  
@@ -11,7 +11,7 @@
 bubbleupnp完美 
 其他客户端有少许兼容性问题待修复
 
-###更新日志
+更新日志
 20200605 更新修复小bug version 0.0.8
 
 
