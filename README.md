@@ -1,5 +1,5 @@
 # DLNA-render
-###最新的DLNA实现（gmediarender）
+###最新的DLNA render实现（gmediarender）
 
 ###已更新至 version 0.8.0-20200110
 
@@ -19,7 +19,7 @@ docker run -d \
 --net=host \
 --device /dev/snd:/dev/snd \
  --restart unless-stopped \
-freesmall/dlna-render
+sxx1314/dlna-render
 ```
 Comment:
   The line `-e UPNP_DEVICE_NAME=<dlna renderer name>`  can be remove the it will use name `HomePod-$(hostname)` by default.
