@@ -5,6 +5,12 @@
 
 ##最新的DLNA render实现（gmediarender）
 
+目前进度 
+网易云/qq音乐轮播正常  
+下一首暂停正常 
+bubbleupnp完美 
+其他客户端有少许兼容性问题待修复
+
 ###更新日志
 20200605 更新修复小bug version 0.0.8
 
