@@ -9,7 +9,7 @@ RUN apt-get update && \
  gstreamer1.0-plugins-bad \
  gstreamer1.0-plugins-ugly \
  gstreamer1.0-alsa \
- gstreamer1.0-libav \
+ gstreamer1.0-libav
 
 
 
