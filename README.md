@@ -1,11 +1,12 @@
 # DLNA-render
 
 <h1><font color=Purple> 这是一个基于ubuntu18的dlna 音频接收器，
-它可以利用DLNA/UPNP服务推送音频资源。但是由于会暴露链接地址，因此现在在线收费音乐支持的很少。spotify/虾米/qq付费音乐都是不能推送的。 </font><br></h1>
+它可以利用DLNA/UPNP服务推送音频资源。 </font><br></h1>
 
 最新的DLNA render实现（gmediarender）
 
-### 目前进度 
+### 目前进度
+但是由于会暴露链接地址，因此现在在线收费音乐支持的很少。spotify/虾米/qq付费音乐都是不能推送的。
 网易云/qq音乐 轮播正常,下一首暂停正常.
 bubbleupnp完美 
 其他客户端有少许兼容性问题待修复
