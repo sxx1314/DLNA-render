@@ -32,4 +32,4 @@ sxx1314/dlna-render
 ```
 注释:
   这一行 `-e UPNP_DEVICE_NAME=<dlna renderer name>`  可以删除 
-  删除之后默认命名规则为 `HomePod-$(hostname)` 
+  删除之后默认命名规则为 `DLNA-$(hostname)` 
