@@ -1,7 +1,7 @@
 # DLNA-render
 
-<h1><font color=Purple> 这是一个基于ubuntu18的dlna 音频接收端，
-它可以DLNA推送音频资源，例如HomePod </font><br></h1>
+<h1><font color=Purple> 这是一个基于ubuntu18的dlna 音频接收器，
+它可以利用DLNA/UPNP服务推送音频资源。但是由于会暴露链接地址，因此现在在线收费音乐支持的很少。spotify/虾米/qq付费音乐都是不能推送的。 </font><br></h1>
 
 最新的DLNA render实现（gmediarender）
 
