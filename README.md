@@ -19,7 +19,7 @@
 
 
 # Docker 命令:
-## 仅支持 `host` 模式:
+## 支持 `host` 以及 `macvlan`模式（如果路由器使用，推荐使用macvlan隔离ip，否则会被upnp等应用干扰）:
 #### `< xxx >` 替换为你喜欢的名字.
 ```
 docker run -d \
